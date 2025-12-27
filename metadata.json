@@ -1,0 +1,5 @@
+{
+  "name": "MyceliumNexus",
+  "description": "Integrated Mushroom Farming & Processing Management System with Offline-First capabilities and Multi-Tenancy.",
+  "requestFramePermissions": []
+}
